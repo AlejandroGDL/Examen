@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Hola Mundo</string>
+    <string name="Numero1" />
+    <string name="Numero2" />
+    <string name="Num1">Numero 1</string>
+    <string name="Num2">Numero 2</string>
+    <string name="Res">Resultado</string>
+    <string name="Suma">Suma</string>
+    <string name="dsadasd">Ingresa el valor 1</string>
+    <string name="dsadad">Ingresa el valor 2</string>
+    <string name="Resta">Resta</string>
+    <string name="Operacion">Operación</string>
+    <string name="Act2">Actividad 2</string>
+    <string name="btn3">Actividad 3</string>
+    <string name="Act4">Actividad 4</string>
+    <string name="Valor">Valor</string>
+    <string name="Img">Imagen</string>
+    <string name="StringAct5">¿Qué valor observaste?</string>
+    <string name="Act5">Actividad 5</string>
+    <string name="dsfdffa">Ingresa el Valor 3</string>
+    <string name="Calc">Calcular</string>
+    <string name="Multi">Multiplicacion</string>
+    <string name="Divi">Division</string>
+    <string name="Historial">Historial</string>
+</resources>
